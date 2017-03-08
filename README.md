@@ -3,7 +3,6 @@ Scaling images based on ratio of container
 
 ### Options
 
-
 #### container
 Type: `object`
 
@@ -34,11 +33,12 @@ Default: `[]`
 
 ```html
 <div class="list-images">
-  <ul>
-    <li><span><img src="https://template-c.oncourse.cc/s/img/slides/slide-3.jpg"></span></li>
-    <li><span><img src="https://template-c.oncourse.cc/s/img/slides/slide-1.jpg"></span></li>
-  </ul>
-</div>
+    <ul>
+      <li><span><img src="images/coc.jpg"></span></li>
+      <li><span><img src="images/coffee.jpg"></span></li>
+      <li><span><img src="images/coffeeARtF.jpg"></span></li>
+    </ul>
+  </div>
 ```
 
 ```js
